@@ -10,13 +10,13 @@ up.addEventListener('click', function() {
 
 
   //maybe add this to a timeout? calculate how much time it will take to scroll back?
-  let colorSections = document.querySelectorAll('.color-block');
+  // let colorSections = document.querySelectorAll('.color-block');
 
-  colorSections.forEach(function(e) {
-    e.remove();
-  });
+  // colorSections.forEach(function(e) {
+  //   e.remove();
+  // });
 
-  counter = 1;
+  // counter = 1;
 });
 
 window.addEventListener('scroll', function() {
