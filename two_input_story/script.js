@@ -23,7 +23,7 @@ window.addEventListener('scroll', function() {
   console.log('Scroll event detected! Scroll Y:', window.scrollY);
 
   //if the scrollY > a
-  if(scrollY > counter * window.innerHeight){
+  if(scrollY >= counter * window.innerHeight){
     console.log("add more divs");
 
     let newSection = document.createElement("section");
