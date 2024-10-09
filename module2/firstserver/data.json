@@ -1,0 +1,138 @@
+{
+  "turtles": [
+    {
+      "name": "Leonardo",
+      "alias": "Leo",
+      "role": "Leader",
+      "weapon": "Twin Katanas",
+      "color": "Blue",
+      "personality": "Disciplined, Loyal, Tactical",
+      "age": 16,
+      "funFacts": [
+        "Named after Leonardo da Vinci",
+        "Always tries to keep the team together",
+        "Often takes responsibility for his brothers"
+      ]
+    },
+    {
+      "name": "Michelangelo",
+      "alias": "Mikey",
+      "role": "The Fun-Loving Party Dude",
+      "weapon": "Nunchaku",
+      "color": "Orange",
+      "personality": "Laid-back, Funny, Carefree",
+      "age": 15,
+      "funFacts": [
+        "Named after Michelangelo Buonarroti",
+        "Loves pizza more than anything",
+        "Has a pet turtle named Klunk"
+      ]
+    },
+    {
+      "name": "Donatello",
+      "alias": "Donnie",
+      "role": "Tech Genius",
+      "weapon": "Bo Staff",
+      "color": "Purple",
+      "personality": "Intelligent, Inventive, Analytical",
+      "age": 16,
+      "funFacts": [
+        "Named after Donatello di Niccolò",
+        "Builds most of the team's gadgets and vehicles",
+        "Loves to experiment with technology"
+      ]
+    },
+    {
+      "name": "Raphael",
+      "alias": "Raph",
+      "role": "Muscle",
+      "weapon": "Sai",
+      "color": "Red",
+      "personality": "Aggressive, Strong-Willed, Hot-Tempered",
+      "age": 16,
+      "funFacts": [
+        "Named after Raffaello Sanzio",
+        "Has a soft spot for animals, especially his pet turtle Spike",
+        "Often clashes with Leonardo over leadership"
+      ]
+    }
+  ],
+  "allies": [
+    {
+      "name": "Splinter",
+      "role": "Sensei",
+      "species": "Mutant Rat",
+      "personality": "Wise, Calm, Fatherly",
+      "funFacts": [
+        "Originally a human named Hamato Yoshi",
+        "Raised the Turtles from infancy and trained them in ninjutsu"
+      ]
+    },
+    {
+      "name": "April O'Neil",
+      "role": "Journalist",
+      "species": "Human",
+      "personality": "Brave, Resourceful, Curious",
+      "funFacts": [
+        "Close friend and ally of the Turtles",
+        "Often helps them with gathering information and uncovering villains' plans"
+      ]
+    },
+    {
+      "name": "Casey Jones",
+      "role": "Vigilante",
+      "species": "Human",
+      "personality": "Reckless, Loyal, Street-Smart",
+      "funFacts": [
+        "Wields various sports equipment as weapons",
+        "Has a close friendship with Raphael"
+      ]
+    }
+  ],
+  "villains": [
+    {
+      "name": "Shredder",
+      "alias": "Oroku Saki",
+      "role": "Arch-Nemesis",
+      "weapon": "Bladed Armor",
+      "personality": "Ruthless, Power-Hungry, Strategic",
+      "funFacts": [
+        "Leader of the Foot Clan",
+        "Sworn enemy of Splinter and the Turtles",
+        "Constantly tries to dominate New York City"
+      ]
+    },
+    {
+      "name": "Krang",
+      "role": "Alien Warlord",
+      "species": "Utrom",
+      "personality": "Manipulative, Cunning, Ambitious",
+      "funFacts": [
+        "Krang is a brain-like alien who controls a large robotic body",
+        "Wants to conquer Earth with Shredder's help"
+      ]
+    },
+    {
+      "name": "Bebop",
+      "species": "Mutant Warthog",
+      "role": "Shredder's Henchman",
+      "personality": "Dim-Witted, Loyal",
+      "funFacts": [
+        "Was originally a human gang member",
+        "Mutated by Shredder to serve as muscle"
+      ]
+    },
+    {
+      "name": "Rocksteady",
+      "species": "Mutant Rhinoceros",
+      "role": "Shredder's Henchman",
+      "personality": "Strong, Stubborn",
+      "funFacts": [
+        "Mutated from a human into a rhinoceros",
+        "Works alongside Bebop, though they're both often incompetent"
+      ]
+    }
+  ]
+
+}
+
