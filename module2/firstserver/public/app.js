@@ -8,7 +8,7 @@ async function fetchData() {
   try {
     // Making an API call using fetch
     //
-    const response = await fetch("./api/");
+    const response = await fetch("/api/");
 
     // Check if the response is okay (status in the range 200-299)
     if (!response.ok) {
